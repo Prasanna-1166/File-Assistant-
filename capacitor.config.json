@@ -1,0 +1,6 @@
+{
+  "appId": "tech.prasanna.omnifile",
+  "appName": "OmniFile Radial",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
